@@ -11,10 +11,15 @@
             "id": "5ab8650c0171436e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "estudo parte 1/Painel admin_posts, paginas categorias, tags.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Painel admin_posts, paginas categorias, tags"
             }
           }
         ]
@@ -106,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 329.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -292,11 +297,13 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "5ab8650c0171436e",
   "lastOpenFiles": [
+    "Plano de Estudo — WordPress (Nível Intermediário).md",
     "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
     "notas_bibliograficas/cursos_curtos/autodidata/Core Web Vitals/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/cursos_curtos/autodidata/desing/Design atômico.md",
@@ -325,7 +332,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas/criptomoeda.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/ordem de pagamento",
